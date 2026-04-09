@@ -14,10 +14,10 @@ Hello! I'm **Aditya Mullick**, a passionate developer focused on building strong
 
 ### 🌱 Learning Journey
 Currently learning:
-- **Python Programming**
-- **Java (DSA Basics)**
-- **AI & Machine Learning**
-- Improving problem-solving skills
+- Python Programming  
+- Java (DSA Basics)  
+- AI & Machine Learning  
+- Problem Solving  
 
 ### ⚡ Fun Fact
 Consistency + Practice 💻 = Success 🚀
@@ -38,10 +38,10 @@ Consistency + Practice 💻 = Success 🚀
 <table>
 
 <tr>
-<td align="center" width="120"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-<td align="center" width="120"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>AI/ML</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>AI/ML</td>
 </tr>
 
 </table>
@@ -52,7 +52,13 @@ Consistency + Practice 💻 = Success 🚀
 ## 🧠 LeetCode & Problem Solving
 
 <p align="center">
-  💡 Practicing Data Structures & Algorithms to improve coding skills.
+  <a href="https://leetcode.com/u/iWLCZaDMmP/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 Practicing Data Structures & Algorithms regularly to improve problem-solving skills.
 </p>
 
 ---
